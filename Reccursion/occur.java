@@ -1,5 +1,5 @@
 // First and last occurence of the given character in the String provided.
-package DSA;
+
 
 public class occur {
 

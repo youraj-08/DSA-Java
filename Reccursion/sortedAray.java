@@ -1,5 +1,5 @@
 // check wether the given array is strictly sorted.
-package DSA;
+
 
 public class sortedAray {
     public static void main(String[] args) {

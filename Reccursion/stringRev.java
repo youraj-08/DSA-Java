@@ -1,4 +1,4 @@
-package DSA;
+
 
 public class stringRev {
     public static void main(String[] args) {
